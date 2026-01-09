@@ -1,5 +1,5 @@
 # micropad!
-This is a 12-key 'macro'pad with an OLED display and LEDs underneath the keys!
+This is a 12-key hack-pad with an OLED display and LEDs underneath the keys!
 I plan on using this as a numberpad, with extra keys (calculator, gamebar).
 
 # Schematic and PCB!
